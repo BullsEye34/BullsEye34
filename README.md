@@ -63,10 +63,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br/>   
-<br/>
-<br/>
-<br/> 
+<br/>  
 
 ## Tools and Software:
 
@@ -83,18 +80,6 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
-
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -109,11 +94,6 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -135,11 +115,6 @@ Here are some ideas to get you started:
 
 <!-- <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/> -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
