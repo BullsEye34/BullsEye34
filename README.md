@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vamshi-prasad-633503112/">
-<img alt="" width="50px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%">
+<img alt="" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="max-width:100%">
 </a>
 <a href="https://github.com/BullsEye34"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" width="50px" style="max-width:100%" /></a>
 </p>
 
 <br>
 
-<img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
 - I'm a Student from AMC Engineering College
 - I’m also a professional Freelance Flutter Engineer.
