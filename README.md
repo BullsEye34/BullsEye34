@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 - I'm a Student from AMC Engineering College
 - I’m also a professional Freelance Flutter Engineer.
-- I’m have about 2 years of work experience.
+- I’m having about 2 years of work experience, as both freelancer and intern.
 - I’m currently looking forward to becoming an expert in Express JS.
 - Ask me about anything, I am happy to help.
 
