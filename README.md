@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### Tools:
+### Tools and Software:
 
 
 <img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
@@ -90,6 +90,17 @@ Here are some ideas to get you started:
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+
 
 <!-- <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
 
