@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ### Languages:
 
 
+<p>
 <img style="padding-right:1rem" align="left" alt="Dart" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,10 +59,11 @@ Here are some ideas to get you started:
 <img style="padding-right:1rem" align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img style="padding-right:1rem" align="left" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-1.png" />
+</p>
 
 <br/>
 <br/>
-<br/>
+<br/>   
 
 ### Tools and Software:
 
