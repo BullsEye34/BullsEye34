@@ -106,6 +106,8 @@ Here are some ideas to get you started:
   <h1 align="center"><b>:zap: Github Stats :zap:</b></h1>
 </p>
 
+<center>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BullsEye34&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BullsEye34&theme=github_dark)
@@ -114,3 +116,5 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BullsEye34&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BullsEye34&theme=github_dark)
+
+</center>
