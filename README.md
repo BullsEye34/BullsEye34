@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 <br>
 
-### Languages:
-
+## Languages:
+<br>
 
 <p>
 <img style="padding-right:1rem" align="left" alt="Dart" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>   
 
-### Tools and Software:
+## Tools and Software:
 
 <br/>
 
@@ -130,10 +130,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>  
 
-<p>
+<!-- <p>
   <h1 align="center"><b>:zap: Github Stats :zap:</b></h1>
-</p>
-
+</p> -->
+# :zap: Github Stats :zap:
 <center>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BullsEye34&theme=github_dark)
