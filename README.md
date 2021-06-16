@@ -107,6 +107,15 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" />
