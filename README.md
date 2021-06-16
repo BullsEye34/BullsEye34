@@ -83,9 +83,9 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+
 
 
 
@@ -107,6 +107,8 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
 
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+
 <br/>
 <br/>
 <br/>
@@ -123,6 +125,8 @@ Here are some ideas to get you started:
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 
 <!-- <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
@@ -151,17 +155,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
-<br/>
-<br/>
-<br/>  
-<br>
-<br>
-<br>
-
-<br/>
-<br/>
-<br/>  
+ 
 
 <!-- <p>
   <h1 align="center"><b>:zap: Github Stats :zap:</b></h1>
