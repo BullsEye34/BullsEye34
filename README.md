@@ -59,11 +59,13 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-1.png" />
 
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 ### Tools and Software:
 
+<br/>
 
 <p>
 <img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
