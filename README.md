@@ -65,17 +65,12 @@ Here are some ideas to get you started:
 ### Tools and Software:
 
 
+<p>
 <img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
 
 <img style="padding-right:1rem" align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<!-- <img style="padding-right:1rem" align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-
 <img style="padding-right:1rem" align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<!-- <img style="padding-right:1rem" align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
-
-
 
 <img style="padding-right:1rem" align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -88,7 +83,12 @@ Here are some ideas to get you started:
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
-<br>
+</p>  
+
+<br/>
+<br/>
+<br/>
+<p>
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 
@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="150px" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"/>
+</p>
 
 
 <!-- <div height="45px">
