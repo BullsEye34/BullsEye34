@@ -73,41 +73,22 @@ Here are some ideas to get you started:
 <br/>
 
 <p>
-<img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
+<img style="padding-right:1rem" align="left" alt="Flutter" width="25px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
 
-<img style="padding-right:1rem" align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="padding-right:1rem" align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img style="padding-right:1rem" align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="padding-right:1rem" align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img style="padding-right:1rem" align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img style="padding-right:1rem" align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img style="padding-right:1rem" align="left" alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-
-
+<img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 
 
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
 <br/>
 <br/>
@@ -118,15 +99,34 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="55px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="55px" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 
 <!-- <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
