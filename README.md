@@ -89,13 +89,6 @@ Here are some ideas to get you started:
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
