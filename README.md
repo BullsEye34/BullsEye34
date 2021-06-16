@@ -125,7 +125,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
+
+<br/>
+<br/>
+<br/>  
 
 <p>
   <h1 align="center"><b>:zap: Github Stats :zap:</b></h1>
