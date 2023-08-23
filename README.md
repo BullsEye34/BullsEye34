@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-- I'm a professional Flutter Developer working at Digital Trons
+- I was a professional Flutter Developer working at Digital Trons
 - I was a Student from AMC Engineering College
-- I’m also a professional Freelance Flutter Engineer.
+- I was also a professional Freelance Flutter Engineer.
 - I’m having about 3 years of work experience, as employee, freelancer and intern.
 - I’m currently looking forward to becoming an expert in Express JS, Networking, and Graphics.
 - Ask me about anything, I am happy to help.
